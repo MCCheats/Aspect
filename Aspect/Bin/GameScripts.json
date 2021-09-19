@@ -1,0 +1,10 @@
+{
+    "ScriptHub":{
+        "DarkHub":{
+            "Text":"DarkHub - OP AF! ", 
+            "Script":"loadstring(game:HttpGet('https://darkhub.xyz/remote-script.lua', true))()",
+			"Image":"https://pbs.twimg.com/profile_images/1252286508356317189/7cvEuCb-_400x400.jpg"
+            }
+        }
+    
+}
